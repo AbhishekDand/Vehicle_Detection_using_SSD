@@ -1,6 +1,4 @@
-# SSD-Tensorflow-On-Custom-Dataset
-
-Clone this repo and do few modifications and your Custom Object Detector using SSD will be ready.
+# SSD-Tensorflow-On-Lyft-Dataset
 
 google_colab_example.ipynb will show you how to train SSD on Google Colab.
 
